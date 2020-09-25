@@ -1,0 +1,16 @@
+{
+  "coc.preferences.formatOnSaveFiletypes": [
+    "css",
+    "markdown",
+    "javascript",
+    "graphql",
+    "html",
+    "yaml",
+    "json",
+    "javascriptreact",
+    "typescriptreact",
+    "typescript"
+  ],
+
+  "snippets.ultisnips.directories": ["UltiSnips", "~/.config/nvim/utils/snips"]
+}
